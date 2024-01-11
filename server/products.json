@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Dresses",
+      "cost": "1234",
+      "description": "asdfghjk",
+      "image": "https://img2.gadgetsnow.com/gd/images/products/additional/large/G390858_View_1/mobiles/smartphones/apple-iphone-14-pro-max-256-gb-deep-purple-6-gb-ram-.jpg",
+      "id": 1
+    },
+    {
+      "name": "Dresses",
+      "cost": "1234",
+      "description": "asdfghjk",
+      "image": "https://img2.gadgetsnow.com/gd/images/products/additional/large/G390858_View_1/mobiles/smartphones/apple-iphone-14-pro-max-256-gb-deep-purple-6-gb-ram-.jpg",
+      "id": 1
+    },
+    {
+      "name": "Dresses",
+      "cost": "1234",
+      "description": "asdfghjk",
+      "image": "https://img2.gadgetsnow.com/gd/images/products/additional/large/G390858_View_1/mobiles/smartphones/apple-iphone-14-pro-max-256-gb-deep-purple-6-gb-ram-.jpg",
+      "id": 1
+    },
+    {
+      "name": "Dresses",
+      "cost": "1234",
+      "description": "asdfghjk",
+      "image": "https://img2.gadgetsnow.com/gd/images/products/additional/large/G390858_View_1/mobiles/smartphones/apple-iphone-14-pro-max-256-gb-deep-purple-6-gb-ram-.jpg",
+      "id": 1
+    },
+    {
+      "name": "Dresses",
+      "cost": "1234",
+      "description": "asdfghjk",
+      "image": "https://img2.gadgetsnow.com/gd/images/products/additional/large/G390858_View_1/mobiles/smartphones/apple-iphone-14-pro-max-256-gb-deep-purple-6-gb-ram-.jpg",
+      "id": 1
+    }
+  ]
+}

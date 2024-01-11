@@ -1,0 +1,87 @@
+.home{
+    min-height: 100vh;
+    background:linear-gradient(to left, #4777e698 , #8d54e9b3), url(https://templatemo.com/templates/templatemo_492_app_starter/images/home-bg.jpg) no-repeat center;
+    background-size: cover;
+}
+.home img{
+    width: 80%;
+    float: right;
+}
+.row{
+    padding: 150px;
+}
+img{
+    width: 300px;
+   margin: 50px;
+}
+button{
+    border-radius: 20px;
+    padding: 8px;
+    background-color: aqua;
+    color: #fff;
+    border: none;
+}
+.screenshots img{
+    width: 100%;
+    margin: 50px;
+}
+.card ul{
+    list-style: none;
+}
+.card{
+    position: relative;
+}
+.card button{
+    position: absolute;
+    bottom: -15px;
+    left: 15%;
+    width: 80%;
+}
+.contact{
+    background: linear-gradient(#2bf9efde, #27fff4a2), url(https://templatemo.com/templates/templatemo_492_app_starter/images/newsletter-bg.jpg) no-repeat center;
+    background-size: cover;
+}
+.contact input{
+    border: none;
+    border-bottom: 2px solid white;
+    outline: none;
+}
+.contact input::placeholder{
+    color: white;
+}
+
+
+/* home  */
+.home1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 20px;
+    flex-flow: row wrap;
+}
+.p-card{
+    box-shadow: 0px 0px 30px #cac8c8;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.p-card h3{
+    color: #4530ff;
+}
+.p-card a{
+    padding: 10px;
+    width: 50%;
+    background-color: #4530ff;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 1.2em;
+}
+.p-card img{
+    max-width: 50%;
+    text-align: center;
+}
+.name-group{
+    display: flex;
+    justify-content: space-between
+}
